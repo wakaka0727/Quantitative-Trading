@@ -1,6 +1,7 @@
-> 论文来源：LEVER: Online Adaptive Sequence Learning Framework for High-Frequency Trading
-
 # LEVER: Online Adaptive Sequence Learning Framework for High-Frequency Trading
+
+> 论文来源：LEVER: Online Adaptive Sequence Learning Framework for High-Frequency Trading
+> 
 
 ## Framework overview
 
